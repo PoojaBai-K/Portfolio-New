@@ -36,7 +36,7 @@ export function AboutProfileShowcase() {
           >
             <div className="rounded-2xl overflow-hidden mb-7">
               <ImageWithFallback
-                src="public/about1.jpeg"
+                src="/about1.jpeg"
                 alt="Team whiteboarding product flows"
                 className="w-full h-64 sm:h-72 object-cover object-center"
               />
